@@ -265,8 +265,3 @@ footer{
     background-color: black;
     color: white;
 }
-@media screen and (max-width:400px){
-    .main img{
-       display: none;
-    }
-}
